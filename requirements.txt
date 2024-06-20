@@ -1,0 +1,3 @@
+# pip install -r requirements.txt
+# Version minima de django
+Django ==4.0.6
